@@ -1,6 +1,9 @@
 .sidebar {
   float: right;
   background-color: yellow;
+  border: 2px solid blue;
+  padding: 4px;
+  margin: 12px;
 }
 img {
   float: center;
