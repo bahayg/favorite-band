@@ -7,9 +7,21 @@
 }
 img {
   float: center;
+  padding: 4px;
 }
 
-.column {
+.column1 {
   width: 200px;
   float: left;
+  background-color: pink;
+}
+.column2 {
+  width: 200px;
+  float: left;
+  background-color: orange;
+}
+.column3 {
+  width: 200px;
+  float: left;
+  background-color: green;
 }
